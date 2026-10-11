@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "v1.1",
+  "versionCode": 3,
+  "versionName": "v1.2",
   "downloadUrl": "https://github.com/ssomethingg00/cold_wallet/raw/main/app/ColdQRScanner.apk",
-  "notes": "Added Zoom controls (1x, 1.5x, 2x, 2.5x), Anti-Glare screen filter, and high-performance dense QR scanning engine"
+  "notes": "Custom save folder chooser (Downloads, Documents, Custom phone/SD folder), automatic \\ColdQRScanner\\ subfolder, In-app file manager with Delete & Share."
 }
