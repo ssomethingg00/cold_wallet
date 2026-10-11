@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "v1.4",
+  "versionCode": 6,
+  "versionName": "v1.5",
   "downloadUrl": "https://github.com/ssomethingg00/cold_wallet/raw/main/app/ColdQRScanner.apk",
-  "notes": "Custom app icon, bundled Bhejo broadcast tool (broadcast.html), CSTX1 signed tx auto-detection with 10s debounce, and SHA-256 verification."
+  "notes": "Bhejo multi-part CSTX1 batch support: collects all parts 1..n with batch ID, progress bar, missing parts display, auto-save to file, and opens broadcast.html with joined transactions."
 }
