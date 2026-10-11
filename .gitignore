@@ -24,6 +24,7 @@ gradlew*
 !app/ColdQRScanner_v1.1.apk
 !app/ColdQRScanner_v1.2.apk
 !app/ColdQRScanner_v1.3.apk
+!app/ColdQRScanner_v1.4.apk
 !app/ColdQRScanner.apk
 !app/version.json
 !README.md

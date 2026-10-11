@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "v1.3",
+  "versionCode": 5,
+  "versionName": "v1.4",
   "downloadUrl": "https://github.com/ssomethingg00/cold_wallet/raw/main/app/ColdQRScanner.apk",
-  "notes": "Ultra-fast frame decoder (<20ms, zero lag on screen auto-change), locked camera focus, compact sleek buttons, dynamic Save Singles."
+  "notes": "Custom app icon, bundled Bhejo broadcast tool (broadcast.html), CSTX1 signed tx auto-detection with 10s debounce, and SHA-256 verification."
 }
