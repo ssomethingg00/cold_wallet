@@ -4,10 +4,11 @@ A small, fully **offline** Android app that reads **animated QR sequences** from
 
 ---
 
-## 📥 Download & Install (Testing v1.0)
+## 📥 Download & Install (Latest v1.3)
 
-- **Latest APK Download**: [Download ColdQRScanner_v1.0.apk](app/ColdQRScanner_v1.0.apk)
-- **Direct GitHub Release**: [GitHub Releases v1.0](https://github.com/ssomethingg00/cold_wallet/releases/tag/v1.0)
+- **Latest APK Download**: [Download ColdQRScanner.apk](app/ColdQRScanner.apk)
+- **Version v1.3 APK**: [Download ColdQRScanner_v1.3.apk](app/ColdQRScanner_v1.3.apk)
+- **Direct GitHub Release**: [GitHub Releases v1.3](https://github.com/ssomethingg00/cold_wallet/releases/tag/v1.3)
 
 ---
 
