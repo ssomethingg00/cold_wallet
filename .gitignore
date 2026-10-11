@@ -1,0 +1,25 @@
+# Build & Tooling
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+
+# Source code ignored as requested ("sourse code abhi nhi dalna")
+src/
+**/src/
+gradle/
+**/gradle/
+gradlew*
+*.gradle.kts
+*/*.gradle.kts
+*.properties
+*.pro
+
+# Ignore root APK from repo tracking (root APK is kept locally on PC)
+/ColdQRScanner*.apk
+
+# Allow app folder APK and documentation
+!app/ColdQRScanner_v1.0.apk
+!README.md
+!.gitignore
