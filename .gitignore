@@ -21,6 +21,7 @@ gradlew*
 
 # Allow app folder APK and documentation
 !app/ColdQRScanner_v1.0.apk
+!app/ColdQRScanner_v1.1.apk
 !app/ColdQRScanner.apk
 !app/version.json
 !README.md
